@@ -2,6 +2,7 @@
 #include<conio.h>
 #include<string.h>
 #include<ctype.h>
+
 struct department
 {
 	int did;
@@ -2646,4 +2647,5 @@ void lin(char ch[])
 		printf("%s",ch);
 	}
       //	printf("\n");
+
 }
