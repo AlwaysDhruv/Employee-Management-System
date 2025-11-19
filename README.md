@@ -1,6 +1,6 @@
 # Employee Management System
 
-This is a simple console-based employee management system written in C++. It allows users to manage employee, department, and work details records.
+This is a simple console-based employee management system written in C and C++. It allows users to manage employee, department, and work details records.
 
 ## Features
 
